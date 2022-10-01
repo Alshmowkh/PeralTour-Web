@@ -1,0 +1,12 @@
+body{
+margin-left:180px;
+margin-right:180px;
+background-color:#134404;
+}
+a:link{color:white;}
+a:visited{color:white;}
+.lnk{
+font-weight:bold;
+text-decoration:none;
+font-size:12pt;
+}
